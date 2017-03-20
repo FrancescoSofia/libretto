@@ -14,4 +14,10 @@ public class TestModel {
 		System.out.println(m.trovaEsame("99QQQ"));
 	}
 
-}
+}// recupera i dati dalla vista
+
+//verifica la validità dei dati
+
+//chiedi al Model di effettuare l'operazione
+
+//aggiorna la vista con il risultato dell'operazione
